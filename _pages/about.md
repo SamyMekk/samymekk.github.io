@@ -12,7 +12,7 @@ I was a PhD student at [LPSM](https://www.lpsm.paris/) (Laboratoire de Probabili
 
 Research interests
 ======
-During my PhD, my research interest lies at the boundary between stochastic control, infinite dimensional structures and non-markovian settings (delay, Volterra, fractional noise,...). My work focuses on exhibiting the nice structures behind some classes of non-markovian problems and designing efficient algorithms to solve them. On a more applied side, I developed neural network based algorithms for stochastic control of high dimensional objects for a company named [Qovoltis](https://www.qovoltis.com/). 
+During my PhD, my research interest lied at the boundary between stochastic control, infinite dimensional structures and non-markovian settings (delay, Volterra, fractional noise,...). My work focuses on exhibiting the nice structures behind some classes of non-markovian problems and designing efficient algorithms to solve them. On a more applied side, I developed neural network based algorithms for stochastic control of high dimensional objects for a company named [Qovoltis](https://www.qovoltis.com/). 
 
 Other activities
 ======
