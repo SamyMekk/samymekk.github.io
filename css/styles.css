@@ -1,0 +1,35 @@
+.contenu {
+    width: 500px;
+    margin: 10px auto;
+    
+    
+}
+
+h1,h2 {
+    text-align:center;
+}
+
+.details{
+    height:200px;
+}
+
+
+div.details img{
+    height: 200px;
+    float: left;
+    border-radius:50%;
+}
+   
+    
+hr{
+    border-color:lightskyblue;
+}
+
+.liste-details{
+   list-style-type: none;
+   text-indent:2%
+}
+
+.cv-section{
+    padding-bottom: 20px;
+}
