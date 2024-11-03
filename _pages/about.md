@@ -13,8 +13,7 @@ I am  a PhD student at [CMAP](https://cmap.ip-paris.fr/)  (Centre de Mathématiq
 Before my PhD, I graduated from both my M.S. in Quantitative Finance at [M2MO](https://masterfinance.math.univ-paris-diderot.fr/) (Modélisation Aléatoire) and my M.S in Actuarial Science at [ENSAE Paris](https://www.ensae.fr/). 
 <br>
 From the end of 2024, I may be a member of the [French Actuariat Institute](https://www.
-institutdesactuaires.com/).  You can find my actuarial dissertation [here](https://samymekk.github.io/files/Mémoire_d_Actuariat-Samy.pdf) which focusses on the numerical methods (from classic numerical methods to supervised learning algorithms) for pricing and hedging of XVAs.
-
+institutdesactuaires.com/).
 
 Research interests
 ======
