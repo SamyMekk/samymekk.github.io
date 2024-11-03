@@ -12,7 +12,7 @@ I am  a PhD student at [CMAP](https://cmap.ip-paris.fr/)  (Centre de Mathématiq
 <br> 
 Before my PhD, I graduated from both my M.S. in Quantitative Finance at [M2MO](https://masterfinance.math.univ-paris-diderot.fr/) (Modélisation Aléatoire) and my M.S in Actuarial Science at [ENSAE Paris](https://www.ensae.fr/). 
 <br>
-From the end of 2024, I may be a member of the French [Actuariat Institute] (https://www.institutdesactuaires.com/).
+From the end of 2024, I may be a member of the [French Actuariat Institute](https://www.institutdesactuaires.com/).
 
 Research interests
 ======
