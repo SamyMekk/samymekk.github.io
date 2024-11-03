@@ -9,7 +9,11 @@ redirect_from:
 ---
 
 I am  a PhD student at [CMAP](https://cmap.ip-paris.fr/)  (Centre de Mathématiques Appliquées de l'Ecole Polytechnique), at Ecole Polytechnique, France. My advisors are [Huyên Pham](https://sites.google.com/site/phamxuanhuyen/) and [Idris Kharroubi](https://finance.math.upmc.fr/authors/idris-kharroubi/) .
-Before my PhD, I graduated from both [Master M2MO](https://masterfinance.math.univ-paris-diderot.fr/) (Modélisation Aléatoire) and [ENSAE Paris](https://www.ensae.fr/). From the end of 2024, I may be a member of the [French Actuariat Institute](https://www.institutdesactuaires.com/).  You can find my actuarial dissertation [here](https://samymekk.github.io/files/Mémoire_d_Actuariat-Samy.pdf) which focusses on the numerical methods (from classic numerical methods to supervised learning algorithms) for pricing and hedging of XVAs.
+<br> 
+Before my PhD, I graduated from both [Master M2MO](https://masterfinance.math.univ-paris-diderot.fr/) (Modélisation Aléatoire) and [ENSAE Paris](https://www.ensae.fr/). 
+<br>
+From the end of 2024, I may be a member of the [French Actuariat Institute](https://www.
+institutdesactuaires.com/).  You can find my actuarial dissertation [here](https://samymekk.github.io/files/Mémoire_d_Actuariat-Samy.pdf) which focusses on the numerical methods (from classic numerical methods to supervised learning algorithms) for pricing and hedging of XVAs.
 
 
 Research interests
