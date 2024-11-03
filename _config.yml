@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Enzo Miller"
+title                    : "Samy Mekkaoui"
 title_separator          : "-"
-name                     : "Enzo Miller"
-description              : &description "Enzo Miller's personnal website"
-url                      : https://enzoMiller.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Samy Mekkaoui"
+description              : &description "Samy Mekkaoui's academic website"
+url                      : https://samymekk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "enzoMiller/enzoMiller.github.io"
+repository               : "SamyMekk/samymekk.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Enzo Miller"
+  name             : "Samy Mekkaoui"
   avatar           : "profile.png"
-  bio              : "PhD student in stochastic control"
+  bio              : "PhD student in stochastic control applied to mean field games"
   location         : "Paris"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Nd8ggvcAAAAJ&hl=en"
-  email            : "enzo.miller@polytechnique.org"
-  researchgate     :  "https://www.researchgate.net/profile/Enzo_Miller" # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : # "https://scholar.google.com/citations?user=Nd8ggvcAAAAJ&hl=en"
+  email            : "samy.mekkaoui@polytechnique.edu"
+  researchgate     :  #"https://www.researchgate.net/profile/Enzo_Miller" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # "https://www.linkedin.com/in/enzo-miller-0b0777ab"
+  linkedin         : "samy-mekkaoui-3ba12a1b6/"
   orcid            : 
   pinterest        :
   soundcloud       :

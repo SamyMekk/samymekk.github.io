@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I was a PhD student at [LPSM](https://www.lpsm.paris/) (Laboratoire de Probabilités, Statistique et Modélisation), at Université Paris-Diderot in Paris, France, from 2018 to 2021. My advisors were [Huyên Pham](https://sites.google.com/site/phamxuanhuyen/) and [René Aïd](https://sites.google.com/view/reneaid). I am now quantitative researcher at [QRT](https://www.qube-rt.com/).
+I am  a PhD student at [CMAP](https://cmap.ip-paris.fr/)  (Centre de Mathématiques Appliquées de l'Ecole Polytechnique), at Ecole Polytechnique, France. My advisors are [Huyên Pham](https://sites.google.com/site/phamxuanhuyen/) and [Idris Kharroubi](https://finance.math.upmc.fr/authors/idris-kharroubi/) .
+Before my PhD, I graduated from both [Master M2MO](https://masterfinance.math.univ-paris-diderot.fr/) (Modélisation Aléatoire) and [ENSAE Paris](https://www.ensae.fr/). From the end of 2024, I may be a member of the [French Actuariat Institute](https://www.institutdesactuaires.com/).  You can find my actuarial dissertation [here](https://samymekk.github.io/files/Mémoire_d_Actuariat-Samy.pdf) which focusses on the numerical methods (from classic numerical methods to supervised learning algorithms) for pricing and hedging of XVAs.
+
 
 Research interests
 ======
-During my PhD, my research interest lied at the boundary between stochastic control, infinite dimensional structures and non-markovian settings (delay, Volterra, fractional noise,...). My work focuses on exhibiting the nice structures behind some classes of non-markovian problems and designing efficient algorithms to solve them. On a more applied side, I developed neural network based algorithms for stochastic control of high dimensional objects for a company named [Qovoltis](https://www.qovoltis.com/). 
 
-Other activities
-======
-I had the opportunity to help [Qovoltis](https://www.qovoltis.com/) build smart charging stations for electric vehicules. I suggest you check their website, it's a really cool growing company with a strong determination to be on the technological forefront ! 
+During my PhD, i will be working on the modeling and control of complex systems with heterogeneous interactions. It is related to the mean-field game theory developped by Lasry and Lions and my work will be to focus on the extention on the heteregoneous interaction between the agents.
+
