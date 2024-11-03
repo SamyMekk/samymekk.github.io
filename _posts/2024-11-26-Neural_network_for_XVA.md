@@ -12,7 +12,7 @@ tags:
 We will introduce the computation of XVAs through neural networks.
 
 
-To access to a PDF version of the following presentation, click [here](https://samymekk.github.io/files/MemoireActuariatSlides.pdf).
+To access to a PDF version of the presentation, click [here](https://samymekk.github.io/files/MemoireActuariatSlides.pdf).
 
 
 # Table of contents
