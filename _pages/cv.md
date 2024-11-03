@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download](https://samymekk.github.io/files/CV_Mekkaoui_Samy.pdf) a pdf version.
+[Download](https://samymekk.github.io/files/CV_Mekkaoui_Samy.pdf) a pdf version of my current CV.
 
 
   
