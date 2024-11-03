@@ -9,20 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download](https://enzoMiller.github.io/files/cv-enzo-miller.pdf) a pdf version.
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+[Download](https://samymekk.github.io/files/CV_Mekkaoui_Samy.pdf) a pdf version.
   
 Teaching
 ======
