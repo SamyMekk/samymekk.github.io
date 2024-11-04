@@ -30,14 +30,9 @@ We will focus on computational aspects of $\text{XVAs}$. For a deep understandin
 XVAs can be summarized in the following table : 
 
 
-$\begin{array}{|l|l|l|}
-\hline
-\text{XVA}   & \text{Valuation Adjustment}     & \text{Expected Cost of the Bank} \\
-\hline
-    \text{CVA}        &  \text{Credit Valuation Adjustment}  &   \text{Client Default Losses}       \\
-y            &  \text{numeric}  &   \text{xzh}       \\
-\hline
-\end{array}$
+- $\text{CVA}$ and $\text{DVA}$ represent 
+- $\text{FVA}$ and $\text{MVA}$ represent
+- $\text{KVA}$ represents
 
 In the following, we will focus on the main quantity of interest for banks which is the $\text{CVA}$.
 <br>
