@@ -24,12 +24,37 @@ To access to a PDF version of the presentation, click [here](https://samymekk.gi
 # What are XVAs  ? <a name="whatIs"></a>
 
 
-L'équation de la CVA est donnée par :
+
+We will focus on computational aspects of $\text{XVAs}$. For a deep understanding of theses quantities, see [this book](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119508991).
+<br>
+XVAs can be summarized in the following table : 
+
+
+$\begin{array}{|l|l|l|}
+\hline
+\text{XVA}   & \text{Valuation Adjustment}     & \text{Expected Cost of the Bank} \\
+\hline
+    \text{CVA}        &  \text{Credit Valuation Adjustment}  &   \text{Client Default Losses}       \\
+y            &  \text{numeric}  &   \text{xzh}       \\
+\hline
+\end{array}$
+
+In the following, we will focus on the main quantity of interest for banks which is the $\text{CVA}$.
+<br>
+<br>
+The $\text{CVA}$ equation is given by : 
+
 
 <center>
 
 $CVA_t = \mathbb{E}^{\mathbb{Q}}[(1-R^C) \mathbb{1}_{t \leq \tau^C \leq T} \frac{(V_{\tau^C})^+}{B_{\tau^C}}|\mathcal{G}_t]$
 
 </center>
+
+$\text{with the following notations :}$
+
+- $\mathbb{1}_{t \leq \tau^C \leq T}$ represents the potential default time between t and $T$.
+- $R^C$ refers to the recovery rate
+- 
 
 # Neural Networks for XVAs <a name="example"></a>
