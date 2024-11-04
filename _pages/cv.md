@@ -11,12 +11,12 @@ redirect_from:
 
 [Download](https://samymekk.github.io/files/CV_Mekkaoui_Samy.pdf) a pdf version of my current CV.
 
-Lien vers [slides](https://samymekk.github.io/slides/post1/)
+Lien vers [slides](https://samymekk.github.io/test2)
 
 
 Education
 ======
-* Ph.D in Stochastic Control, CMAP, 2027 (expected to be )
+* Ph.D in Stochastic Control, CMAP, 2027 (expected  )
 * M.S. in Quantitative Finance, M2MO, 2024
 * M.S. in Actuarial Science, ENSAE Paris, 2024
 
