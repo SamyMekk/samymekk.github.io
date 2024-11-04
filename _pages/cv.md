@@ -11,7 +11,7 @@ redirect_from:
 
 [Download](https://samymekk.github.io/files/CV_Mekkaoui_Samy.pdf) a pdf version of my current CV.
 
-Lien vers [slides](https://samymekk.github.io/test2)
+Lien vers [slides](https://samymekk.github.io/testsamy2)
 
 
 Education
