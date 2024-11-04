@@ -23,4 +23,13 @@ To access to a PDF version of the presentation, click [here](https://samymekk.gi
 
 # What are XVAs  ? <a name="whatIs"></a>
 
+
+L'équation de la CVA est donnée par :
+
+<center>
+
+$CVA_t = \mathbb{E}^{\mathbb{Q}}[(1-R^C) \mathbb{1}_{t \leq \tau^C \leq T} \frac{(V_{\tau^C})^+}{B_{\tau^C}}|\mathcal{G}_t]$
+
+</center>
+
 # Neural Networks for XVAs <a name="example"></a>
