@@ -1,5 +1,4 @@
 project:
-  type : website
+  type: website
   render:
-      - hello.qmd
-      
+    - hello.qmd
