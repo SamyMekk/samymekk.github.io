@@ -16,7 +16,7 @@ Lien vers [slides](https://samymekk.github.io/_slides)
 
 Education
 ======
-* Ph.D in Stochastic Control, CMAP, 2027 (expected)
+* Ph.D in Stochastic Control, CMAP, 2027 (expected to be )
 * M.S. in Quantitative Finance, M2MO, 2024
 * M.S. in Actuarial Science, ENSAE Paris, 2024
 
