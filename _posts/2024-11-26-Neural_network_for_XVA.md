@@ -1,6 +1,7 @@
 ---
 title: 'Neural network for an efficient XVA computation'
 date: 2024-11-26
+author: 'Samy Mekkaoui'
 permalink: /posts/2024/11/neural-net_XVA/
 tags:
   - XVA
@@ -16,12 +17,13 @@ This post will be related to the work I did during my internship as a Quantitati
 To access to a PDF version of the presentation, click [here](https://samymekk.github.io/files/MemoireActuariatSlides.pdf).
 
 
-# Table of contents
-1. [A quick definition of XVAs](#whatIs)
-2. [Neural networks as a computational tool ! ](#example)
+## Table of contents
+- [Table of contents](#table-of-contents)
+- [A quick definition of XVAs ](#a-quick-definition-of-xvas-)
+- [Neural networks as computational tools ](#neural-networks-as-computational-tools-)
 
 
-# What are XVAs  ? <a name="whatIs"></a>
+## A quick definition of XVAs <a name="whatIs"></a>
 
 
 
@@ -40,11 +42,11 @@ In the following, we will focus on the main quantity of interest for banks which
 The $\text{CVA}$ equation is given by : 
 
 
-<center>
-
-$CVA_t = \mathbb{E}^{\mathbb{Q}}[(1-R^C) \mathbb{1}_{t \leq \tau^C \leq T} \frac{(V_{\tau^C})^+}{B_{\tau^C}}|\mathcal{G}_t]$
-
-</center>
+$$
+\begin{align}
+CVA_t &= \mathbb{E}^{\mathbb{Q}}[(1-R^C) \mathbb{1}_{t \leq \tau^C \leq T} \frac{(V_{\tau^C})^+}{B_{\tau^C}}|\mathcal{G}_t]   \tag{1} \\
+\end{align}
+$$
 
 $\text{with the following notations :}$
 
@@ -52,4 +54,5 @@ $\text{with the following notations :}$
 - $R^C$ refers to the recovery rate
 - 
 
-# Neural Networks for XVAs <a name="example"></a>
+## Neural networks as computational tools <a name="example"></a>
+
