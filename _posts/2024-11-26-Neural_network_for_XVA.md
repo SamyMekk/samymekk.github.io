@@ -27,7 +27,7 @@ To access to a PDF version of the presentation, click [here](https://samymekk.gi
 
 We will focus on computational aspects of $\text{XVAs}$. For a deep understanding of theses quantities, see [this book](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119508991).
 <br>
-XVAs can be summarized in the following table : 
+XVAs can be summarized as the following : 
 
 
 - $\text{CVA}$ and $\text{DVA}$ represent 
