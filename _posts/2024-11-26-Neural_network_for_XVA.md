@@ -14,7 +14,7 @@ We will show how neural networks can help to handle the main issues of the compu
 
 
 This post will be related to the work I did during my internship as a Quantitative Research at Forvis Mazars during the period May-November 2024. 
-To access to a PDF version of the presentation, click [here](https://samymekk.github.io/files/Slides_IA_Presentation_SamyMekkaoui).
+To access to a PDF version of the presentation, click [here](https://samymekk.github.io/files/Slides_IA_Presentation_SamyMekkaoui.pdf).
 
 
 
