@@ -8,7 +8,7 @@ date: 2025-01-01
 location: "Palaiseau, France"
 ---
 
-[](https://www.google.com/)
+Course about all the fundamentation notions of probability theory.
 
 
 ## About organisation
