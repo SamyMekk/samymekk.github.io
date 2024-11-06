@@ -1,8 +1,8 @@
 ---
-title: 'Efficient XVA computation with neural networks'
+title: 'Efficient XVA computation using supervised learning algorithms'
 date: 2024-11-26
 author: 'Samy Mekkaoui'
-permalink: /posts/2024/11/neural-net_XVA/
+permalink: /posts/2024/11/supervised-learning-algorithms_XVA/
 tags:
   - XVA
   - neural network
@@ -19,8 +19,10 @@ To access to a PDF version of the presentation, click [here](https://samymekk.gi
 
 
 # Table of contents
-1. [Quick definition of XVAs](#whatIs)
-2. [Neural Networks as computation tools ?](#example)
+- [Table of contents](#table-of-contents)
+  - [A quick definition of XVAs ](#a-quick-definition-of-xvas-)
+  - [Gaussian Processes Regressions for *CVA* computation ](#gaussian-processes-regressions-for-cva-computation-)
+  - [Neural Networks for *MVA* computation ](#neural-networks-for-mva-computation-)
 
 
 
@@ -55,5 +57,11 @@ $\text{with the following notations :}$
 - $R^C$ refers to the recovery rate
 - 
 
-## Neural networks as computational tools <a name="example"></a>
+## Gaussian Processes Regressions for *CVA* computation <a name="GPR-CVA"></a>
+
+To be done.
+
+## Neural Networks for *MVA* computation <a name="NN-MVA"></a>
+
+To be done.
 
