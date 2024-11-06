@@ -18,11 +18,20 @@ To access to a PDF version of the presentation, click [here](https://samymekk.gi
 
 
 
+
 # Table of contents
-- [Table of contents](#table-of-contents)
-  - [A quick definition of XVAs ](#a-quick-definition-of-xvas-)
-  - [Gaussian Processes Regressions for *CVA* computation ](#gaussian-processes-regressions-for-cva-computation-)
-  - [Neural Networks for *MVA* computation ](#neural-networks-for-mva-computation-)
+<!-- no toc -->
+1. [A quick definition of XVAs ](#whatIs)
+2. [Supervised learning algorithms ](#example)
+    1. [Gaussian Processes Regressions for *CVA* computation ](#GPR-CVA)
+    2. [Neural network for *MVA* computation](#NN-MVA)
+
+   
+
+
+ 
+
+
 
 
 
