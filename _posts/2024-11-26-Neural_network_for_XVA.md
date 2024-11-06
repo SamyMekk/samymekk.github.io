@@ -26,6 +26,8 @@ To access to a PDF version of the presentation, click [here](https://samymekk.gi
 
 
 
+
+
 ## A quick definition of XVAs <a name="whatIs"></a>
 
 
