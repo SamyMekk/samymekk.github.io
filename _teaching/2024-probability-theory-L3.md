@@ -8,27 +8,28 @@ date: 2025-01-01
 location: "Palaiseau, France"
 ---
 
+[](https://www.google.com/)
 
 
 ## About organisation
 
 I may be giving some lectures at ENSAE Paris for the course of [Probability Theory](https://www.ensae.fr/courses/113) starting at the second semester of the academic year 2024-2025 starting.  
 
-## Links to the exercice sheets
+## Links to the exercice sheets 
+
 
 I give below the links to the different exercice sheets which will be updated after each session. 
-- Measurable Functions : [TD1](Test) 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- Gaussian Vectors : [TD8](Test)
 
-
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 
 
 
