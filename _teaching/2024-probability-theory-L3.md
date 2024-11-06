@@ -26,7 +26,7 @@ I give below the links to the different exercice sheets which will be updated af
 - 
 - 
 - 
--
+- Gaussian Vectors : [TD8](Test)
 
 
 
@@ -35,5 +35,5 @@ I give below the links to the different exercice sheets which will be updated af
 
 ## Other ressources to prepare for exams
 
--
-- [First partial with correction](https://enzoMiller.github.io/files/Interro_L1_algebre_lin.pdf) and [some examples](https://enzoMiller.github.io/files/scanner_L1_algebre_lin_ex_copies.pdf) of copies where I found the quality of the redaction quite remarkable ! 
+To be done.
+
