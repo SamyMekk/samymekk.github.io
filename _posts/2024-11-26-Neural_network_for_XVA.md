@@ -1,5 +1,5 @@
 ---
-title: 'Neural network for an efficient XVA computation'
+title: 'Efficient XVA computation with neural networks'
 date: 2024-11-26
 author: 'Samy Mekkaoui'
 permalink: /posts/2024/11/neural-net_XVA/
