@@ -46,7 +46,7 @@ We will focus on computational aspects of $\text{XVAs}$. For a deep understandin
 $\text{XVAs}$ can be summarized as the following : 
 
 
-- $\text{CVA}$ and $\text{DVA}$ represent 2 values
+- $\text{CVA}$ and $\text{DVA}$ represent 2 important values which are
 - $\text{FVA}$ and $\text{MVA}$ represent
 - $\text{KVA}$ represents
 
