@@ -22,9 +22,13 @@ Education
 Work experience
 ======
 * <b> May-November 2024 </b>: Quantitative Researcher Intern, Forvis Mazars
+<<<<<<< HEAD
   * Duties included : Study of classic numerical methods to supervised learning algorithms for pricing and hedging of XVAs and results in the writing of an actuarial dissertation available [here](https://samymekk.github.io/files/Mémoire_d_Actuariat-Samy.pdf). <br>
   Slides of the presentation are available [here](https://samymekk.github.io/files/Slides_IA_Presentation_SamyMekkaoui.pdf).
   
+=======
+  * Duties included : Study of classic numerical methods to supervised learning algorithms for pricing and hedging of XVAs and results in the writing of an actuarial dissertation available [here](https://samymekk.github.io/files/Mémoire_d_Actuariat-Samy.pdf).
+>>>>>>> 5e1cb7b853a37f3cb18d0e3f7018f1a3138bd4c6
 
 * <b>January-July 2023 </b>: Quantitative Analyst Intern, Caisse des Dépôts et Consignations
   * Duties included : Review of interest rate model of the capital requirement for the Fonds d'Epargne.
