@@ -70,9 +70,9 @@ $\text{with the following notations :}$
 
 ## Gaussian Processes Regressions for *CVA* computation <a name="GPR-CVA"></a>
 
-To be done.
+To be done asap
 
 ## Neural Networks for *MVA* computation <a name="NN-MVA"></a>
 
-To be done.
+To be done asap.
 
