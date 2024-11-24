@@ -15,10 +15,10 @@ Course about all the fundamental notions of probability theory.
 
 I may be giving some lectures at ENSAE Paris for the course of [Probability Theory](https://www.ensae.fr/courses/113) starting at the second semester of the academic year 2024-2025 starting.  
 
-## Links to the exercice sheets 
+## Link to the exercice sheets 
 
 
-I give below the links to the different exercice sheets which will be updated after each session. 
+ The exercice sheet can be downloaded [here](https://samymekk.github.io/files/TD-Probas.pdf). I will update after each session the numbers of the exercises that were covered during the session.
 
 - 
 - 
@@ -35,6 +35,4 @@ I give below the links to the different exercice sheets which will be updated af
 
 
 ## Other ressources to prepare for exams
-
-To be done.
 
