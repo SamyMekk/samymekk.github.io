@@ -13,26 +13,30 @@ Course about all the fundamental notions of probability theory.
 
 ## About organisation
 
-I may be giving some lectures at ENSAE Paris for the course of [Probability Theory](https://www.ensae.fr/courses/113) taught by Victor-Emmanuel Brunel starting at the second semester of the academic year 2024-2025.  
+I may be giving some lectures at ENSAE Paris for the course of [Probability Theory](https://www.ensae.fr/courses/113) taught by Victor-Emmanuel Brunel starting at the second semester of the academic year 2024-2025. 
 
 ## Link to the exercice sheets 
 
 
- The exercice sheet can be downloaded [here](https://samymekk.github.io/files/TD-Probas.pdf). I will update after each session the numbers of the exercises that were covered during the session.
+ The exercice sheet can be downloaded [here](https://samymekk.github.io/files/Probability Theory TD/TD-Probas.pdf). I will update after each session the numbers of the exercises that were covered during the session.
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-
+  
 
 
 
 ## Other ressources to prepare for exams
+
+You can prepare for the MIP by doing the 2 previous MIP exams : 
+
+- **2024 MIP Exam** available [here](https://samymekk.github.io/files/Probability Theory TD/MIP - Probability Theory 2024.pdf)
+- **2023 MIP Exam** available [here](https://samymekk.github.io/files/Probability Theory TD/MIP - Probability Theory 2023.pdf)
+
+You can prepare for the final exam by doing the 2 previous final exams :
+
+-  **2024 Final Exam** available [here](https://samymekk.github.io/files/Probability Theory TD/Exam - Probability Theory 2024.pdf)
+-  **2023 Final Exam** available [here](https://samymekk.github.io/files/Probability Theory TD/Exam - Probability Theory 2023.pdf)
+
+
+
+Don't hesitate to ask me any question 
 
