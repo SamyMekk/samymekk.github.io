@@ -18,7 +18,7 @@ I may be giving some lectures at ENSAE Paris for the course of [Probability Theo
 ## Link to the exercice sheets 
 
 
- The exercice sheet can be downloaded [here](https://samymekk.github.io/files/Probability Theory TD/TD-Probas.pdf). I will update after each session the numbers of the exercises that were covered during the session.
+ The exercice sheet can be downloaded [here](https://samymekk.github.io/files/Probability-Theory-TD/TD-Probas.pdf). I will update after each session the numbers of the exercises that were covered during the session.
 
   
 
@@ -28,15 +28,15 @@ I may be giving some lectures at ENSAE Paris for the course of [Probability Theo
 
 You can prepare for the MIP by doing the 2 previous MIP exams : 
 
-- **2024 MIP Exam** available [here](https://samymekk.github.io/files/Probability Theory TD/MIP - Probability Theory 2024.pdf)
-- **2023 MIP Exam** available [here](https://samymekk.github.io/files/Probability Theory TD/MIP - Probability Theory 2023.pdf)
+- **2024 MIP Exam** available [here](https://samymekk.github.io/files/Probability-Theory-TD/MIP-Probability-Theory-2024.pdf)
+- **2023 MIP Exam** available [here](https://samymekk.github.io/files/Probability-Theory-TD/MIP-Probability-Theory-2023.pdf)
 
 You can prepare for the final exam by doing the 2 previous final exams :
 
--  **2024 Final Exam** available [here](https://samymekk.github.io/files/Probability Theory TD/Exam - Probability Theory 2024.pdf)
--  **2023 Final Exam** available [here](https://samymekk.github.io/files/Probability Theory TD/Exam - Probability Theory 2023.pdf)
+-  **2024 Final Exam** available [here](https://samymekk.github.io/files/Probability-Theory-TD/Exam-ProbabilityTheory-2024.pdf)
+-  **2023 Final Exam** available [here](https://samymekk.github.io/files/Probability-Theory-TD/Exam-Probability-Theory-2023.pdf)
 
 
 
-Don't hesitate to ask me any question 
+Don't hesitate to ask me any question for your preparation of the exams !
 
