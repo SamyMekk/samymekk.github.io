@@ -66,11 +66,11 @@ $\text{with the following notations :}$
 
 - $\mathbb{1}_{t \leq \tau^C \leq T}$ represents the potential default time between t and $T$.
 - $R^C$ refers to the recovery rate
-- 
+- Test
 
 ## Gaussian Processes Regressions for *CVA* computation <a name="GPR-CVA"></a>
 
-To be done asap
+To be done asap 
 
 ## Neural Networks for *MVA* computation <a name="NN-MVA"></a>
 
