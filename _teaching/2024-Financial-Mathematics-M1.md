@@ -12,7 +12,7 @@ An introductory course in Financial Mathematics
 
 ## About organisation
 
-I may be giving some lectures at ENSAE Paris for the course of [Financial Mathematics][(https://www.ensae.fr/courses/113)](https://www.ensae.fr/en/courses/124)  starting at the second semester of the academic year 2024-2025.  
+I may be giving some lectures at ENSAE Paris for the course of [Financial Mathematics](https://www.ensae.fr/courses/124) starting at the second semester of the academic year 2024-2025.  
 
 ## Link to the exercice sheets 
 
