@@ -2,7 +2,7 @@
 title: "Financial Mathematics M1 (2024/2025)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2024-probability-theory-M1
+permalink: /teaching/2024-financial-mathematics-M1
 venue: "ENSAE Paris"
 date: 2025-02-01
 location: "Palaiseau, France"
