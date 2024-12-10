@@ -1,7 +1,7 @@
 ---
 title: "Actuarial Thesis  M2 (2024/2025)"
 collection: teaching
-type:  "Student Supervision"
+type:  "Student supervision"
 permalink: /teaching/2024-Actuarial-Thesis-M2
 venue: "ISUP - Sorbonne Université"
 date: 2025-01-01
