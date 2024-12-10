@@ -20,6 +20,9 @@ I may be giving some lectures at ENSAE Paris for the course of [Probability Theo
 
  The exercice sheet can be downloaded [here](https://samymekk.github.io/files/Probability-Theory-TD/TD-Probas.pdf). I will update after each session the numbers of the exercises that were covered during the session.
 
+
+- Session of **January 30, 2025** : 
+  
   
 
 
@@ -38,5 +41,5 @@ You can prepare for the final exam by doing the 2 previous final exams :
 
 
 
-Don't hesitate to ask me any question for your preparation of the exams !
+Don't hesitate to ask me any questions for your preparation of the exams !
 
