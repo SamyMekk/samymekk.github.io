@@ -13,7 +13,7 @@ Course about all the fundamental notions of probability theory
 
 ## About organisation
 
-I may be giving some lectures at ENSAE Paris for the course of [Probability Theory](https://www.ensae.fr/courses/113) taught by Victor-Emmanuel Brunel starting at the second semester of the academic year 2024-2025. 
+I will  be giving some lectures at ENSAE Paris for the course of [Probability Theory](https://www.ensae.fr/courses/113) taught by Victor-Emmanuel Brunel starting at the second semester of the academic year 2024-2025. 
 
 ## Link to the exercice sheets 
 
