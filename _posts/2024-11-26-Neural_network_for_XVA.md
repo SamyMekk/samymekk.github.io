@@ -5,12 +5,13 @@ author: 'Samy Mekkaoui'
 permalink: /posts/2024/11/supervised-learning-algorithms_XVA/
 tags:
   - XVA
-  - neural network
+  - Neural Networks
   - Conditional Expectation Learning
+  - Gaussian Processes
 ---
 
 
-We will show how neural networks can help to handle the main issues of the computations of XVAs.
+We will show how supervised learning algorithms can help to handle the main issues of the computations of XVAs.
 
 
 This post will be related to the work I did during my internship as a Quantitative Research at Forvis Mazars during the period May-November 2024. 
@@ -21,8 +22,8 @@ To access to a PDF version of the presentation, click [here](https://samymekk.gi
 
 # Table of contents
 <!-- no toc -->
-1. [A quick definition of XVAs ](#whatIs)
-2. [Supervised learning algorithms ](#example)
+1. [A quick definition of *XVAs* ](#whatIs)
+2. [Supervised learning algorithms for *XVA* computations](#example)
     1. [Gaussian Processes Regressions for *CVA* computation ](#GPR-CVA)
     2. [Neural network for *MVA* computation](#NN-MVA)
 
@@ -37,7 +38,7 @@ To access to a PDF version of the presentation, click [here](https://samymekk.gi
 
 
 
-## A quick definition of XVAs <a name="whatIs"></a>
+## A quick definition of *XVAs* <a name="whatIs"></a>
 
 
 
@@ -74,5 +75,29 @@ To be done asap
 
 ## Neural Networks for *MVA* computation <a name="NN-MVA"></a>
 
-To be done asap.
+#### Description of the method ###
+This method is based on a simple but fundamental representation of the conditional expectation for $L^2$ random variables. Assuming $X$ and $Y$ 2 random variables such that $E[Y|X] \in L^2(X)$. Therefore, we know that :
 
+$$
+\begin{align}
+E[Y|X] = \underset{f \in L^2(X)}{argmin}  E[|Y-f(X)|^2] \tag{2}
+\end{align}
+$$
+The natural idea is therefore with neural networks to look for a good approximation of the function $f$ by a neural network parametrization $f^{\theta}$ where $\theta$ is defined on a suitable space such that instead of solving $(2)$, we look for :
+
+$$
+\begin{align}
+E[Y|X] = \underset{\theta }{argmin}  E[|Y-f^{\theta}(X)|^2] \tag{3}
+\end{align}
+$$
+In a practical way, we will considerer $i.i.d$ sampling of random variables $(X_i,Y_i)_{i \in \mathbb{N}^*}$ and we are going to optimize over $\theta$ the quantity 
+
+
+$$
+\begin{align}
+\frac{1}{N} \sum_{i=1}^{N} (Y_i -f^{\theta}(X_i))^2 \tag{4}
+\end{align}
+$$
+
+
+#### Application to MVA computation ####

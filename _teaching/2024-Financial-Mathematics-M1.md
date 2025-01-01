@@ -16,15 +16,9 @@ I will be giving some lectures at ENSAE Paris for the course of [Financial Mathe
 
 ## Link to the exercice sheets 
 
-The exercices sheets (in French) are divided into 5 parts which will be uploaded after each session :
+The exercice sheet can be downloaded [here](https://samymekk.github.io/files/TD-Financial-Mathematics.pdf). I will update after each session the numbers of the exercises that were covered during the session.
 
-- Sheet n°1 : **About some properties of financial derivatives** available [here](https://samymekk.github.io/files/Financial-Mathematics-TD/TD1-2.pdf)
-  
-- Sheet n°2 : **About discrete time markets and link with the Black-Scholes model** available [here](https://samymekk.github.io/files/Financial-Mathematics-TD/TD3-1.pdf)
-- Sheet n°3 : **About Brownian motion properties** available [here](https://samymekk.github.io/files/Financial-Mathematics-TD/TD4-2.pdf)
-- Sheet n°4 : **About Ito computations and application of Doob theorem** available [here](https://samymekk.github.io/files/Financial-Mathematics-TD/TD5-2.pdf)
-- Sheet n°5 : **About Girsanov Theorem and some options pricing under Black-Scholes model** available [here](https://samymekk.github.io/files\Financial-Mathematics-TD\TD6-2.pdf)
-  
+- Session of **February 7, 2025**
 
 
 ## Other ressources to prepare for the exam
