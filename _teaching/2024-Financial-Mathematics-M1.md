@@ -16,7 +16,7 @@ I will be giving some lectures at ENSAE Paris for the course of [Financial Mathe
 
 ## Link to the exercice sheets 
 
-The exercice sheet can be downloaded [here](https://samymekk.github.io/files/TD-Financial-Mathematics.pdf). I will update after each session the numbers of the exercises that were covered during the session.
+The exercice sheet can be downloaded [here](https://samymekk.github.io/files/Financial-Mathematics-TD/TD-Financial-Mathematics.pdf). I will update after each session the numbers of the exercises that were covered during the session.
 
 - Session of **February 7, 2025**
 
