@@ -33,7 +33,7 @@ This blog post is mainly inspired from the excellent book of Carmona-Delarue : *
 
 To be done asap 
 
-### Some topological properties of the Wasserstein space $\mathcal{P}_2(\mathbb{R}^d)$ <a name="GPR-CVA"></a>
+### Some topological properties of the Wasserstein space $\mathcal{P}_2(\mathbb{R}^d)$ <a name="#Topological-Properties"></a>
 
 To be done asap 
 
