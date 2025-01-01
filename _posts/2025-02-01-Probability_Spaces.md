@@ -21,7 +21,7 @@ This blog post is mainly inspired from the excellent book of Carmona-Delarue : *
 <!-- no toc -->
 1. [Metric Spaces of Probability Measures](#whatIs)
     1. [Distance Between Measures](#Distance-MeasureSpaces)
-    2. [Some topological properties of the Wasserstein space $\mathcal{P}_2(\R^d)$](#Topological-Properties)
+    2. [Some topological properties of the Wasserstein space $\mathcal{P}_2(\mathbb{R}^d)$](#Topological-Properties)
 2. [Differentiability of Functions of Probability Measures](#Differentiability)
     1. [Some notions of derivatives on Probability Measures](#Derivatives-Probability-Measures)
     2. [Itô Formula Along Flow of Measures](#Ito)
@@ -33,7 +33,7 @@ This blog post is mainly inspired from the excellent book of Carmona-Delarue : *
 
 To be done asap 
 
-### Some topological properties of the Wasserstein space $\mathcal{P}_2(\R^d)$ <a name="GPR-CVA"></a>
+### Some topological properties of the Wasserstein space $\mathcal{P}_2(\mathbb{R}^d)$ <a name="GPR-CVA"></a>
 
 To be done asap 
 
