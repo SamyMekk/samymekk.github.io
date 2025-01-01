@@ -80,14 +80,14 @@ This method is based on a simple but fundamental representation of the condition
 
 $$
 \begin{align}
-E[Y|X] = \underset{f \in L^2(X)}{argmin}  E[|Y-f(X)|^2] \tag{2}
+E[Y|X] = \underset{f \in L^2(X)}{argmin} \quad  \mathbb{E}[|Y-f(X)|^2] \tag{2}
 \end{align}
 $$
 The natural idea is therefore with neural networks to look for a good approximation of the function $f$ by a neural network parametrization $f^{\theta}$ where $\theta$ is defined on a suitable space such that instead of solving $(2)$, we look for :
 
 $$
 \begin{align}
-E[Y|X] = \underset{\theta }{argmin}  E[|Y-f^{\theta}(X)|^2] \tag{3}
+E[Y|X] = \underset{\theta }{argmin} \quad  \mathbb{E}[|Y-f^{\theta}(X)|^2] \tag{3}
 \end{align}
 $$
 In a practical way, we will considerer $i.i.d$ sampling of random variables $(X_i,Y_i)_{i \in \mathbb{N}^*}$ and we are going to optimize over $\theta$ the quantity 
