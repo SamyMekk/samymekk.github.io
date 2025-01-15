@@ -18,7 +18,7 @@ I will  be giving some lectures at ENSAE Paris for the course of [Probability Th
 ## Link to the exercice sheets 
 
 
- The exercice sheet can be downloaded [here](https://samymekk.github.io/files/Probability-Theory-TD/TD-Probas.pdf). I will update after each session the numbers of the exercises that were covered during the session.
+ The exercice sheet can be downloaded [here](https://samymekk.github.io/files/Probability-Theory-TD/Livret_Exercices_Probas.pdf). I will update after each session the numbers of the exercises that were covered during the session.
 
 
 - Session of **January 30, 2025** : 
