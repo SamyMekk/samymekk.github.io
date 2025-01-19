@@ -14,7 +14,7 @@ Supervising Master 2 students during the writing of their actuarial dissertation
 ## About organisation
 
 
-During the academic year 2024-2025, I will have the opportunity to supervise 2 [ISUP , Master Actuariat](https://isup.sorbonne-universite.fr/) students during the writing of their actuarial thesis in order to join the French Actuariat Institute.
+During the academic year 2024-2025, I will have the opportunity to supervise 3 [ISUP](https://isup.sorbonne-universite.fr/) students during the writing of their actuarial thesis in order to join the French Actuariat Institute.
 
 
 
