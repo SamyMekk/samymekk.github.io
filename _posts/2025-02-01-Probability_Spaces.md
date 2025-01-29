@@ -74,7 +74,8 @@ d_{TV}(\mu,\nu) = 2 \underset{A \in \mathcal{B}(E)}{\text{ sup}} | \mu(A) - \nu(
 \end{align}
 $$
 
-When choosing $\epsilon = \underset{A \in B(E)}{\text{ sup }} | \mu(A) - \nu(A) |$ for $\mu,\nu \in \mathcal{P}(E)$ in the definition of $d_{LP}(\mu,\nu)$, we have : 
+When choosing $$\epsilon = \underset{A \in B(E)}{\text{ sup }} | \mu(A) - \nu(A) |$$ 
+for $\mu,\nu \in \mathcal{P}(E)$ in the definition of $d_{LP}(\mu,\nu)$ , we have : 
 
 $$
 \begin{align}
