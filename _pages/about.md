@@ -17,5 +17,9 @@ From the end of 2024, I am a member of the [French Actuariat Institute](https://
 Research interests
 ======
 
-During my PhD, i will be working on the modeling and control of complex systems with heterogeneous interactions. It is related to the mean-field game theory developped by Lasry and Lions and my work will be to focus on the extention on the heteregoneous interaction between the agents.
+- Stochastic control 
+- Mean Field Games 
+- Probabilities 
+- Numerical Methods
+- Reinforcement Learning
 
