@@ -23,7 +23,7 @@ I will  be giving some lectures at ENSAE Paris for the course of [Probability Th
 
 - Session of **January 30, 2025** :  We did exercises **n° 14, 20** and **27**.
 - Session of **February 6, 2025** :  We did exercises **n° 12, 30** and **33**.
-- Session of **February 17, 2025** : 
+- Session of **February 17, 2025** : We did exercises **n° 45, 46** and **51**.
 - Session of **February 20, 2025** :
   
   
