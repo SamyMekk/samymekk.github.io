@@ -8,7 +8,7 @@ date: 2025-01-01
 location: "Paris, France"
 ---
 
-Supervising Master 2 students during the writing of their actuarial dissertation
+Supervision of M2 students during the writing of their actuarial dissertation.
 
 
 ## About organisation
