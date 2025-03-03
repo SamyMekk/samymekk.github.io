@@ -1,6 +1,6 @@
 ---
 title: 'An overview of the space of measures and related differential calculus'
-date: 2025-02-01
+date: 2025-04-01
 author: 'Samy Mekkaoui'
 permalink: /posts/2025/02/Measures_Spaces/
 tags:
