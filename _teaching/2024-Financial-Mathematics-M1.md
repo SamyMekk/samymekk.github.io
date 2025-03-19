@@ -18,8 +18,9 @@ I will be giving some lectures at ENSAE Paris for the course of [Financial Mathe
 
 The exercice sheet can be downloaded [here](https://samymekk.github.io/files/Financial-Mathematics-TD/TD-Financial-Mathematics.pdf). I will update after each session the numbers of the exercises that were covered during the session.
 
-- Session of **February 7, 2025**: We did exercises **n°2** and **3**.
-- Session of **March 5, 2025**:  We did exercise **n°8**.
+- Session of **February 7, 2025**: We did exercises **n°2** and **3** of TD **1-2**.
+- Session of **March 5, 2025**:  We did exercise **n°8** of TD **1-2**.
+- Sesson of **March 19, 2025** : We did exercises **n°1** and **4** of TD **3**.
 
 
 ## Other ressources to prepare for the exam
