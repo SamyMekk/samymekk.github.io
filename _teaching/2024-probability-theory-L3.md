@@ -28,6 +28,7 @@ I will  be giving some lectures at ENSAE Paris for the course of [Probability Th
 - Session of **March 6, 2025** : We did exercises **n°75** and **85**.
 - Session of **March 10, 2025** : We did exercises **n°112** and **116**.
 - Session of **March 13, 2025** : We did exercises **n°101, 102, 103** and **107**.
+- Session of **March 20, 2025** : We did exercises **n°122, 123, 126** and **129**.
   
 
 
