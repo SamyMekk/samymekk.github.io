@@ -30,7 +30,9 @@ I will  be giving some lectures at ENSAE Paris for the course of [Probability Th
 - Session of **March 13, 2025** : We did exercises **n°101, 102, 103** and **107**.
 - Session of **March 20, 2025** : We did exercises **n°122, 123, 126** and **129**.
 - Session of **March 27, 2025** : We did exercises **n° 160, 161, 162** and **165**.
-- Session of **March 30, 2025**: We did exercises **n° 158, 166** and **167**.
+- Session of **March 31, 2025**: We did exercises **n° 158, 166** and **167**.
+
+The intermediate exam of the course will be on **April 1, 2025** and the exam sheet will be available soon.
   
 
 
