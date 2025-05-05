@@ -20,7 +20,8 @@ The exercice sheet can be downloaded [here](https://samymekk.github.io/files/Fin
 
 - Session of **February 7, 2025**: We did exercises **n°2** and **3** of TD **1-2**.
 - Session of **March 5, 2025**:  We did exercise **n°8** of TD **1-2**.
-- Sesson of **March 19, 2025** : We did exercises **n°1** and **4** of TD **3**.
+- Session of **March 19, 2025** : We did exercises **n°1** and **4** of TD **3**.
+- Session of **April 30, 2025** : We did exercises **n°3** and **4** of TD **4**. 
 
 
 ## Other ressources to prepare for the exam
