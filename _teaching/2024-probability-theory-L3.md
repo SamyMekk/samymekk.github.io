@@ -35,7 +35,8 @@ I will  be giving some lectures at ENSAE Paris for the course of [Probability Th
 The intermediate exam of the course will be on **April 1, 2025** and the exam sheet can be downloaded [here](https://samymekk.github.io\files\Probability-Theory-TD\MIP-Probability-Theory-2025.pdf).
 
 - Session of **April 14, 2025** : We did exercises **n°185, 186, 188** and **183**.
-- Session of **May 5, 2025** : We did exercises **n° 191, 193,199** and **198**.
+- Session of **May 5, 2025** : We did exercises **n° 191, 193, 199** and **198**.
+- Session of **May 12, 2025** : We did exercises **n°131, 132, 134** and **211**.
 
 
 
