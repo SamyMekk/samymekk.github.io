@@ -37,6 +37,7 @@ The intermediate exam of the course will be on **April 1, 2025** and the exam sh
 - Session of **April 14, 2025** : We did exercises **n°185, 186, 188** and **183**.
 - Session of **May 5, 2025** : We did exercises **n° 191, 193, 199** and **198**.
 - Session of **May 12, 2025** : We did exercises **n°131, 132, 134** and **211**.
+- Session of **May 19, 2025** : We did exercises **n°138, 140, 141** and **142**.
 
 
 
