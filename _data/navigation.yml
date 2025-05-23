@@ -13,8 +13,8 @@ main:
  #   url: /publications/
 
  
- # - title: "Talks"
- #   url: /talks/    
+  - title: "Talks"
+    url: /talks/    
 
 
 #Publications A ajouter dans la section CV.
