@@ -9,37 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-[Download](https://samymekk.github.io/files/English_CV_Samy.pdf) a pdf version of my current CV.
+
+[Download](https://samymekk.github.io/files/English_CV_Samy.pdf) a pdf version of my current CV. You can access to my Master's Thesis by clicking [here](https://professionsfinancieres.com/sites/professionsfinancieres.com/files/37_MNA_Pricing%20and%20hedging%20of%20XVAs.pdf)
 
 
 
-Education
+Publications
 ======
-* Ph.D in Stochastic Control, CMAP, 2027 (expected)
-* M.S. in Quantitative Finance, M2MO, 2024
-* M.S. in Actuarial Science, ENSAE Paris, 2024
-
-Work experience
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
 ======
-* <b> May-November 2024 </b>: Quantitative Researcher Intern, Forvis Mazars
-  * Duties included : Study of classic numerical methods to supervised learning algorithms for pricing and hedging of XVAs and results in the writing of an actuarial dissertation available [here](https://samymekk.github.io/files\Actuarial-Thesis\Mémoire_d_Actuariat-Samy.pdf).
-
-* <b>January-July 2023 </b>: Quantitative Analyst Intern, Caisse des Dépôts et Consignations
-  * Duties included : Review of interest rate model of the capital requirement for the Fonds d'Epargne.
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
   
-
-* <b>June-December 2022 </b>: Risk Analyst Intern, Command Strategy Advisory
-  * Duties included: Study of impact of ESG investment in portfolio allocation and results in the writing of a paper available [here](https://www.commandstrategy.com/wp-content/uploads/2022/12/Article-ESG-Repartition-des-notations-VF.pdf).
-  
-  
-Skills
+Teaching
 ======
-* <b> LaTeX </b>
-* <b> Python </b>
-  * Numpy
-  * Pandas
-  * PyTorch
-* <b> HTML/CSS </b>
-
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 
 
