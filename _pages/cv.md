@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[Download](https://samymekk.github.io/files/English_CV_Samy.pdf) a pdf version of my current CV. You can access to my Master's Thesis by clicking [here](https://professionsfinancieres.com/sites/professionsfinancieres.com/files/37_MNA_Pricing%20and%20hedging%20of%20XVAs.pdf)
+[Download](https://samymekk.github.io/files/English_CV_Samy.pdf) a pdf version of my current CV. You can access to my Master's Thesis by clicking [here](https://professionsfinancieres.com/sites/professionsfinancieres.com/files/37_MNA_Pricing%20and%20hedging%20of%20XVAs.pdf).
 
 
 
