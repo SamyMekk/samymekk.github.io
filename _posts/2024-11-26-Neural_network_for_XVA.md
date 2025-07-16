@@ -7,7 +7,7 @@ tags:
   - XVA
   - Neural Networks
   - Conditional Expectation Learning
-  - Gaussian Processes
+  - Gaussian Processes Regression
 ---
 
 
