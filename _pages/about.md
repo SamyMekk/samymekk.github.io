@@ -18,7 +18,7 @@ Research interests
 ======
 
 - Stochastic control 
-- Mean Field Games 
+- Mean Field Games / Mean Field Control
 - Probabilities 
 - Numerical Methods
 - Reinforcement Learning
