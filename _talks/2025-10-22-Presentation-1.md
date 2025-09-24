@@ -8,4 +8,4 @@ date: 2025-10-22
 location: "Palaiseau, France"
 ---
 
-Informations about the presentation will be made available soon.  Slides are available [here](https://samymekk.github.io/files/Talks/Polytechnique/Slides-CNEMF-Polytechnique.pdf)
+Informations about the presentation will be made available soon.  Slides are available [here](https://samymekk.github.io/files/Talks/Polytechnique/Slides-CNEMF-Polytechnique.pdf).
