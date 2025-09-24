@@ -1,5 +1,5 @@
 ---
-title: "Probability and Statistics Bachelor 2nd year (2025/2026)"
+title: "Probability and Statistics M1"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-Probability-Statistics-M1
