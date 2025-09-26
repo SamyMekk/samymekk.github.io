@@ -12,7 +12,7 @@ An introductive  course in Probability and Statistics
 
 ## About organisation
 
-I will be giving some lectures at Ecole Polytechnique  for the course of [Probability and Statistics](https://synapses.polytechnique.fr/catalogue/2025-2026/ue/16289/APM-2F010-EP-probability-and-statistics?from=P5052) taught by Yoan Tardy starting at the first semester of the academic year 2025-2026.  
+I will be giving some lectures at Ecole Polytechnique  for the course of [Probability and Statistics](https://synapses.polytechnique.fr/catalogue/2025-2026/ue/16289/APM-2F010-EP-probability-and-statistics?from=P5052) taught by [Yoan Tardy](http://www.cmap.polytechnique.fr/~yoan.tardy/) starting at the first semester of the academic year 2025-2026.  
 
 ## Link to the exercice sheets 
 
