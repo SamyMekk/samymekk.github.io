@@ -20,6 +20,7 @@ I will be giving some lectures at Ecole Polytechnique  for the course of [Probab
 
 - Session of **September 23, 2025**: We did exercises **n° 1,2,4** and **5** of TD **1** available by clicking [here](https://samymekk.github.io/files/Probability-Statistics/TD1-ProbaStats.pdf).
 - Session of **September 30, 2025** : We did exercises **n° 1,2,3** and **6** of TD **2** available by clicking [here](https://samymekk.github.io/files/Probability-Statistics/TD2-ProbaStats.pdf).
-- Session of **October 7, 2025** : We did exercicses **n° 1,3,4,6** and **8** available by clicking [here](https://samymekk.github.io/files/Probability-Statistics/TD3-ProbaStats.pdf)
+- Session of **October 7, 2025** : We did exercises **n° 1,3,4,6** and **8** available by clicking [here](https://samymekk.github.io/files/Probability-Statistics/TD3-ProbaStats.pdf).
+- Session of **October 14, 2025** : We did exercises **n°1,2,3,4** and **5** available by clicking[here](https://samymekk.github.io/files/Probability-Statistics/TD4-ProbaStats.pdf).
 
 
