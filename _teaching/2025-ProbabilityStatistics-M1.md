@@ -26,3 +26,6 @@ I will be giving some lectures at Ecole Polytechnique  for the course of [Probab
 - Session of **November 4, 2025** : We did exercises **n°2,3,6** and **9** of TD **6** by clicking [here](https://samymekk.github.io/files/Probability-Statistics/TD6-ProbaStats.pdf).
 
 
+Mid Term exam will be posted soon.
+
+
