@@ -24,6 +24,7 @@ I will be giving some lectures at Ecole Polytechnique  for the course of [Probab
 - Session of **October 14, 2025** : We did exercises **n°1,2,3,4** and **5** of TD **4** available by clicking [here](https://samymekk.github.io/files/Probability-Statistics/TD4-ProbaStats.pdf).
 - Session of **October 21, 2025** : We did exercises **n°1,2,3,4** and **8** of TD **5** by clicking [here](https://samymekk.github.io/files/Probability-Statistics/TD5-ProbaStats.pdf).
 - Session of **November 4, 2025** : We did exercises **n°2,3,6** and **9** of TD **6** by clicking [here](https://samymekk.github.io/files/Probability-Statistics/TD6-ProbaStats.pdf).
+- Session of **November 18, 2025** : We review the notions of convergence of random variables i.e, we cover the $L^p$ convergence, the convergence in probability and the almost sure convergence and we discuss the links between them.
 
 
 Mid Term exam will be posted soon.
