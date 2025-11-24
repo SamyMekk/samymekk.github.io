@@ -25,5 +25,5 @@ I will be giving some lectures at Ecole Polytechnique  for the course of [Probab
 - Session of **October 21, 2025** : We did exercises **n°1,2,3,4** and **8** of TD **5** by clicking [here](https://samymekk.github.io/files/Probability-Statistics/TD5-ProbaStats.pdf).
 - Session of **November 4, 2025** : We did exercises **n°2,3,6** and **9** of TD **6** by clicking [here](https://samymekk.github.io/files/Probability-Statistics/TD6-ProbaStats.pdf).
 
-Mid Term will be posted soon.
+Mid Term exam and correction is available by clicking [here](https://samymekk.github.io/files/Probability-Statistics/Mid_Term_Exam.pdf).
 
