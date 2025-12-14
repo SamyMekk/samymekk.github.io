@@ -27,7 +27,7 @@ I will be giving some lectures at Ecole Polytechnique  for the course of [Probab
 - Session of **November 18, 2025** : We review the notions of convergence of random variables i.e, we cover the $L^p$ convergence, the convergence in probability and the almost sure convergence and we discuss the links between them.
 
 
-Mid Term exam will be posted soon.
+Mid Term exam will be posted at the end of December 2025.
 
 Mid Term exam and correction is available by clicking [here](https://samymekk.github.io/files/Probability-Statistics/Mid_Term_Exam.pdf).
 
