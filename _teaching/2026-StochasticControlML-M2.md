@@ -8,6 +8,10 @@ date: 2026-01-27
 location: "Paris, France"
 ---
 
+A course about numerical algorithms to solve stochastic control problems taught at the Master El Karoui.
+
+## Global organisation
+
 I teach the lab sessions of the course **Stochastic Control and Machine Learning** taught at M2PF (Master El Karoui). The course is structured around 3 parts :
 
 - Deep Learning for PDE solvers.
