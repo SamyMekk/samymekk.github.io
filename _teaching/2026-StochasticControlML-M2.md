@@ -18,7 +18,7 @@ I teach the lab sessions of the course **Stochastic Control and Machine Learning
 - Reinforcement learning for stochastic control problems.
 - Generative AI for data generation.
   
-The content of the course is presented in the following [page](https://samymekk.github.io/Labs-Stochastic-Control-and-Machine-Learning/).
+The content of the course is presented in the following [page](https://samymekk.github.io/Labs-Stochastic-Control-and-Machine-Learning/) where the lab sessions and some course reminders are presented.
 
 
 
