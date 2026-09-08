@@ -9,17 +9,30 @@ redirect_from:
 ---
 
 I am  a PhD student at [CMAP](https://cmap.ip-paris.fr/)  (Centre de Mathématiques Appliquées de l'Ecole Polytechnique), at Ecole Polytechnique, France. My advisors are [Huyên Pham](https://sites.google.com/site/phamxuanhuyen/) and [Idris Kharroubi](https://finance.math.upmc.fr/authors/idris-kharroubi/).
-<br> 
-Before my PhD, I graduated from both my M.S. in Quantitative Finance at [M2MO](https://masterfinance.math.univ-paris-diderot.fr/) (Modélisation Aléatoire) and my M.S in Actuarial Science at [ENSAE Paris](https://www.ensae.fr/). 
-<br>
-From the end of 2024, I am a member of the [French Actuariat Institute](https://www.institutdesactuaires.com/).
+
+
+
+I will be a Visiting PhD Student at UC Berkeley from October to December 2026, under the supervision of [Xin Guo](https://xinguo.ieor.berkeley.edu/).
+
+My research interests broadly lie in mean-field control and its various applications, ranging from non-exchangeable interacting systems to generative AI for time series. More generally, I am interested in optimization problems over spaces of probability measures, with a particular interest in approaches based on gradient flows, including Wasserstein gradient flows.
+
 
 Research interests
 ======
 
-- Stochastic control 
-- Mean Field Games (MFG) and Mean Field Control (MFC)
-- Probabilities 
-- Numerical Methods
-- Reinforcement Learning
+
+- Optimal control.
+- Mean Field Games (MFG) and Mean Field Control (MFC).
+- Gradient flows over measure spaces.
+- Generative AI
+
+
+Current projects
+======
+
+
+- Fibered Wasserstein gradient flows for time series generation.
+- Policy gradient algorithms for mean-field control problems 
+- Non exchangeable mean-field Markov decision processes with controlled interactions.
+
 
