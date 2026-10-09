@@ -14,7 +14,12 @@ I am  a PhD student at [CMAP](https://cmap.ip-paris.fr/)  (Centre de Mathématiq
 
 I will be a Visiting PhD Student at UC Berkeley from October to December 2026, under the supervision of [Xin Guo](https://xinguo.ieor.berkeley.edu/).
 
-My research interests broadly lie in mean-field control and its various applications, ranging from non-exchangeable interacting systems to generative AI for time series. More generally, I am interested in optimization problems over spaces of probability measures, with a particular interest in approaches based on gradient flows, including Wasserstein gradient flows.
+My research interests broadly lie in mean-field control and its various applications, ranging from non-exchangeable interacting systems to generative AI for time series. I will update a GitHub repo soon to talk about this.
+
+ More generally, I am interested in optimization problems over spaces of probability measures, with a particular interest in approaches based on gradient flows, including Wasserstein gradient flows.
+
+
+ I am currently looking for a summer internship for 2027. 
 
 
 Research interests
